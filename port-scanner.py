@@ -19,7 +19,7 @@ print("")
 print("")
 
 #Welcome
-print("[+]Welcome to hash-generator! coded by c00LAgent")
+print("[+]Welcome to port-scanner! coded by c00LAgent")
 print("")
 print("[+]Github: https://github.com/c00LAgent/")
 print("[+]Twitter: https://twitter.com/AgentGeneric")
