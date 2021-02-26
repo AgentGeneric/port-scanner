@@ -16,6 +16,13 @@ print("""
 
 #Spaces
 print("")
+print("")
+
+#Welcome
+print("[+]Welcome to hash-generator! coded by c00LAgent")
+print("")
+print("[+]Github: https://github.com/c00LAgent/")
+print("[+]Twitter: https://twitter.com/AgentGeneric")
 
 #IPV4 and Handshake Method
 
